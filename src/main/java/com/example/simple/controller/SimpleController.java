@@ -9,7 +9,7 @@ public class SimpleController {
 	@GetMapping("/")
 	public String getMessage() {
 		
-		return "Welcome to my Simple Application";
+		return "Welcome to my Simple Project";
 	}
 	
 
